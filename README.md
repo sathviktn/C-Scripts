@@ -1,3 +1,3 @@
-# 3rd-sem-DS
+# C Scripts
 
-C programs 
+Basic C Scripts.
